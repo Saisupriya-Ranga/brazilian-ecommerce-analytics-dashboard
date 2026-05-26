@@ -40,5 +40,8 @@ IBGE socioeconomic data.
 - **6 sheets** across all views
 
 ## Screenshots
-(E-Commerce_Performance_Dashboard.png)
-(Delivery_Performance_Dashboard.png)
+### E-Commerce Performance Dashboard
+![E-Commerce Dashboard](E-Commerce_Performance_Dashboard.png)
+
+### Delivery Performance Dashboard
+![Delivery Dashboard](Delivery_Performance_Dashboard.png)
